@@ -24,6 +24,7 @@ public class Main {
 		sum = firstNo + secondNo;
 		//합계 출력하기
 		System.out.println("합계: " + sum);
+		
 	}
 
 }
